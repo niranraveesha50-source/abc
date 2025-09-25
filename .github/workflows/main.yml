@@ -2,8 +2,10 @@ name: Node.js CI
 on:
   push:
     branches:
-mainpu
- llll_request:
+main
+   
+  pull_request:
+   
     branches:
 main
 
